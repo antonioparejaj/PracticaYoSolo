@@ -12,7 +12,13 @@ public class Jarra {//variables de instancia
 		this.capacidad=capacidadInicial;
 	}
 //  metodos
-              1
+              public int capacidad(){
+		return this.capacidad;
+	}
+	public int cantidad(){
+		return this.cantidad;
+	}
+
               2
               3
         public void metodoComunitario(){ 
