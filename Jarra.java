@@ -26,7 +26,8 @@ public void vacia(){
 		this.cantidad=0;
 	}
 
-              3
+              
+	Hola soy antonio
         public void metodoComunitario(){ 
 // Comentario incluido para pruebas 
            System.out.println("Aqui escribimos todos");
